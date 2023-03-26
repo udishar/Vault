@@ -1,0 +1,34 @@
+body{
+    height:135vh;
+    background: rgb(14,13,13);
+     background: linear-gradient(0deg, rgba(14,13,13,1) 14%, rgba(162,161,160,0.9727241238292192) 81%);
+ }
+
+ .Navigation_bar{
+    padding: 5px;
+    background-color: rgba(8, 8, 8, 0.989);
+    font-family:sans-serif;
+    color: rgb(164, 155, 155);
+ }
+ .Container{
+    display: flex;
+   justify-content: center;
+   justify-content: space-around;
+   margin-top: 20px;
+ }
+
+ .btn1{
+    font-size: 20px;
+    font-weight:bolder;
+    border-radius: 120px;
+ }
+ .btn2{
+    font-size: 20px;
+    font-weight:bolder;
+    border-radius: 120px;
+ }
+ .btn3{
+    font-size: 20px;
+    font-weight:bolder;
+    border-radius: 120px;
+ }

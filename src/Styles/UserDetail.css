@@ -1,0 +1,11 @@
+.Table{
+margin-left: 200px;
+margin-top: 20px;
+}
+.inputs{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-top: 10px;
+    
+}
